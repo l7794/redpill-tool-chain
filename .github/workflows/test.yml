@@ -1,5 +1,5 @@
 name: 构建
-on: [watch]
+
 on:
   workflow_dispatch:
     inputs:
